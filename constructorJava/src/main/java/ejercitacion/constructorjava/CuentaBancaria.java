@@ -65,9 +65,9 @@ public class CuentaBancaria {
             this.moneda = moneda;
         }
     }
-    public void setTipo(String moneda){
-        if (moneda != null) {
-            this.moneda = moneda;
+    public void setTipo(String tipo){
+        if (tipo != null) {
+            this.tipo = tipo;
         }
     }
     
